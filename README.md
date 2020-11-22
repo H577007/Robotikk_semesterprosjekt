@@ -1,2 +1,2 @@
 # Robotikk_semesterprosjekt
-Denne repositoryen inneheld matlab script som vi vil leggje ved rapporten vår.
+Denne repositoryen inneheld matlab script og andre vedlegg som vi vil leggje ved rapporten vår.
